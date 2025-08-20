@@ -1,4 +1,5 @@
-# Data Science Professional Development Program
+# Data Science Full-Time Training by DataScientest
+
 
 This repository documents the curriculum and projects for a comprehensive 4-month intensive program in Data Science. The program is designed to provide a strong foundation in the key areas of data science, from programming fundamentals to advanced machine learning and MLOps.
 
